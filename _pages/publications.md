@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: Research publications and White papers.
-years: [2024, 2022]
+years: [2024, 2022, 2020, 2019]
 nav: true
 nav_order: 1
 ---
