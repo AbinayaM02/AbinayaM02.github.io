@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: publications
 description: Research publications and White papers.
 nav: true
 nav_order: 2
