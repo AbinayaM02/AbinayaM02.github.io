@@ -5,7 +5,7 @@ description: This is a GPU based project aimed at implementing a machine learnin
 img: assets/img/cancer.jpg
 importance: 1
 url: https://github.com/AbinayaM02/OSProject9C2
-category: coursework
+category: academic
 related_publications: true
 ---
 
